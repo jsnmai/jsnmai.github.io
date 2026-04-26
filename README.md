@@ -1,2 +1,1 @@
-# Hi, I'm Jason
-This is a WIP repository for my Personal Website: https://jsnmai.github.io/
+This is a repository for my personal website: https://jsnmai.github.io/
