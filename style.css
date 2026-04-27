@@ -134,6 +134,7 @@ body.misc-page .site-nav {
     place-items: center;
     color: var(--muted);
     font-weight: 600;
+    object-fit: cover;
 }
 
 .hero-right p {
